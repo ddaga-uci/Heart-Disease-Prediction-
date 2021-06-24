@@ -1,4 +1,4 @@
-###### <h6>Heart-Disease-Prediction-
+###### <h6>Heart-Disease-Prediction
 ###### <h6>Cardiovascular Disease prediction using patient data.
 ###### <h6>Data description
 ###### <h6>There are 3 types of input features:
